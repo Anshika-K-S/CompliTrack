@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+complitrack.db
+uploads/*
+!uploads/.gitkeep
+.env
